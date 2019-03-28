@@ -11,11 +11,11 @@ This is in no-way near to what a Linaro-Toolchain could do, but enough for my ne
   2. This must be able to be use as an alternative compiler for QT for Raspberry Pi. Linaro-7.4.1 which i use to previous projects.
     (also used the raspberrypi tools).
 
-Future support/capability plans:
+##### Future support/capability plans:
   1. Arm64
   2. Golang
 
-Features:
+##### Features:
  * BINUTILS_VER=__2.32__
  * GCC_VER=__8.3.0__
  * GLIBC_VER=__2.28__
