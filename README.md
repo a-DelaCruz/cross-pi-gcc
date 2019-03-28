@@ -14,11 +14,15 @@ This is in no-way near to what a Linaro-Toolchain could do, but enough for my ne
 Future support/capability plans:
   1. Arm64
   2. Golang
-  
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="MFLAEY2CXYTXG" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_PH/i/scr/pixel.gif" width="1" height="1" />
-</form>
+
+
+
+
+
+
+#### Donation
+You get the best out of others when you give the best of yourself. :)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MFLAEY2CXYTXG)
+
