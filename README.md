@@ -10,7 +10,8 @@ This is in no-way near to what a Linaro-Toolchain could do, but enough for my ne
   1. A latest C/C++ cross-compiler for armhf Raspberry Pi 3.
   2. This must be able to be use as an alternative compiler for QT for Raspberry Pi. Linaro-7.4.1 which i use to previous projects.
     (also used the raspberrypi tools).
-
+  3. Usable for `Part III - Make the Cross-Compile Tools` of `Cross-LFS`.
+  
 ##### Future support/capability plans:
   1. Arm64
   2. Golang
