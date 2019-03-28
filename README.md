@@ -15,7 +15,11 @@ Future support/capability plans:
   1. Arm64
   2. Golang
 
-
+Features:
+ * BINUTILS_VER=__2.32__
+ * GCC_VER=__8.3.0__
+ * GLIBC_VER=__2.28__
+ * LINUX_VER=__rpi-4.19.y__
 
 
 
