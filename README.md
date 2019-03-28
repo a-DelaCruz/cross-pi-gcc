@@ -4,7 +4,7 @@ Build a Cross-Toolchain for Raspberry Pi 3 from source
 Because  this is from a project that i failed to submit on time... I decided to take it as a personal goal to make this work.
 
 As a result of ~2-months research, trials and errors along the way... I finally been able to achieve what i need for my use case
- and now i'' share with everyone that may or may not be useful for you.
+ and now i'll share with everyone that may or may not be useful for you.
  
 This is in no-way near to what a Linaro-Toolchain could do, but enough for my needs which are:
   1. A latest C/C++ cross-compiler for armhf Raspberry Pi 3.
