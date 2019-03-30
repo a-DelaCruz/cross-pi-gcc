@@ -21,6 +21,7 @@ This is in no-way near to what a Linaro-Toolchain could do, but enough for my ne
  * GCC_VER=__8.3.0__
  * GLIBC_VER=__2.28__
  * LINUX_VER=__rpi-4.19.y__
+ * GDB_VER=__8.2.1__
 
 
 
